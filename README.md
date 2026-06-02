@@ -18,6 +18,9 @@ Using only the district-wise cyber crime records provided in this dataset, build
 - Model Testing
 - Model Prediction
 
-This rudimentary model allowed me to explore the depths where AI can work with you to identify characteristic traits in cybersecurity. This enables me to dive deeper into encryption, decryption tools and how automation and advancements can prevent such attacks on critical infrastructure. This futureproofing came with the added bonus of understanding and visualising past data acquired from an open source website - Indian Data Portal.
+This rudimentary model allowed me to explore the depths where AI can work with you to identify characteristic traits in cybersecurity. This enables me to dive deeper into encryption, decryption tools and how automation and advancements can prevent such attacks on critical infrastructure. This futureproofing came with the added bonus of understanding and visualising past data acquired from an open source website - Indian Data Portal. This data was made dirty with the help of LLMs for an end to end EDA pipeline wih model training and testing.
 
-This data was made dirty with the help of LLMs for an end to end EDA pipeline wih model training and testing.
+# Conclusion
+Making AI and Cybersecuirty work with each other to prevent issues caused when both of them work against each other!
+
+Note: I am a First Year Engineering Students who is yet to learn a plethora of new things so if there are any discrepencies do let me know and I will be happy to implement!
